@@ -1,4 +1,4 @@
-# All blobs are from zerofltexx stock (Nougat)
+# All blobs are from zeroltexx stock (Nougat)
 
 # Audio
 etc/firmware/clearwater-dsp3-tx-nb.bin
